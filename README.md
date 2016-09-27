@@ -1,4 +1,4 @@
-# buqueda_secuencial01
+# buqueda_secuencial_desordenada
 tarea
 
 # include <iostream>
